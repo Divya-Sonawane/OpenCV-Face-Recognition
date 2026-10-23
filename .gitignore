@@ -1,1 +1,5 @@
 .DS_Store
+
+# Employee photos and generated biometric templates are local data.
+database/raw_images/
+database/embeddings.pkl

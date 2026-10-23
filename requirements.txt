@@ -1,0 +1,2 @@
+deepface>=0.0.93,<0.1.0
+opencv-python>=4.8,<5.0
